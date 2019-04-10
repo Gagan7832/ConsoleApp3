@@ -83,7 +83,7 @@ namespace ConsoleApp2
 
                 if (char.IsWhiteSpace(c)) { countSpaces++; }
 
-
+                ()
             }
             return countSpaces;
         }
